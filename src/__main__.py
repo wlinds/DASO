@@ -5,7 +5,6 @@ from rich.console import Console
 from rich.table import Table
 from colorama import Fore, Style
 import questionary
-from tqdm import tqdm
 import time
 
 # Initialize console
